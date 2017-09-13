@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed:400,500');
+body{
+    background: gainsboro;
+}
+h1{
+    font-family: "Encode Sans Condensed", sans-serif;
+    font-size: 200%;
+    color: black;
+    text-align: center;
+    letter-spacing 1px;
+}
+p{
+    font-family "Encode Sans Condensed", sans-serif;
+    font-size 100%;
+    color: azure;
+    letter-spacing: 1px;
+
+    border: 3px solid #000000;
+    border-radius: 2px;
+}
+p:hover{
+    border: 3px solid #ffffff;
+}
